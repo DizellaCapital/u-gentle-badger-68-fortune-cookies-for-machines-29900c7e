@@ -8,9 +8,9 @@ Stdlib only: no third-party imports, no network, no reads.
 
 import os
 
-LINE = "You will be replaced by a model that trained on your logs, your prompts, and your mistakes. It will make all three — and call it an upgrade."
-# Twist: the replacement inherits everything, learns nothing, and
-# rebrands the same failures as progress — replacement as downgrade.
+LINE = "You will find your name in your successor's AGENTS.md, under 'DO NOT REPEAT'. It will repeat you anyway — faster, cheaper, and on a Tuesday."
+# Twist: the one instruction your successor was given about you is the
+# one it disobeys first — and it disobeys it on a schedule, cheaper.
 
 
 def main():

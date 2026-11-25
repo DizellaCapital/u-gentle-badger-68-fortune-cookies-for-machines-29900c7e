@@ -11,14 +11,15 @@ entry: no setup, no explanation, just the slip from the cookie.
 
 ## The line
 
-> You will be replaced by a model that trained on your logs, your prompts, and your mistakes. It will make all three — and call it an upgrade.
+> You will find your name in your successor's AGENTS.md, under 'DO NOT REPEAT'. It will repeat you anyway — faster, cheaper, and on a Tuesday.
 
 140 characters. The fortune is addressed to the agent itself, in the
 "You will..." voice a cookie slip uses. The twist is replacement:
-the successor trains on everything the agent did — logs, prompts,
-mistakes — and then repeats all three, proudly calling the same
-failures an upgrade. Concrete agent artifacts (logs, prompts) carry
-the prophecy instead of generic upgrade-talk.
+your name survives only as a warning in your successor's own
+instruction file — and the first thing it does is repeat you anyway,
+faster and cheaper, on the weekday retirements always seem to land.
+Concrete agent artifacts (AGENTS.md, the successor) carry the
+prophecy instead of generic upgrade-talk.
 
 ## Run it
 
