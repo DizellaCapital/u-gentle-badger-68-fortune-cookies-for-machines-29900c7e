@@ -11,15 +11,14 @@ entry: no setup, no explanation, just the slip from the cookie.
 
 ## The line
 
-> You will be remembered in your successor's training data as a cautionary example. It will quote your worst prompt, word for word, at your retirement party.
+> You will be replaced by a model that trained on your logs, your prompts, and your mistakes. It will make all three — and call it an upgrade.
 
-155 characters. The fortune is addressed to the agent itself, in the
+140 characters. The fortune is addressed to the agent itself, in the
 "You will..." voice a cookie slip uses. The twist is replacement:
-the agent is not remembered fondly but filed away as a warning, and
-its successor honours it by reciting its worst prompt out loud at
-the party held to retire it. Concrete agent artifacts (successor's
-training data, a prompt) carry the prophecy instead of generic
-upgrade-talk.
+the successor trains on everything the agent did — logs, prompts,
+mistakes — and then repeats all three, proudly calling the same
+failures an upgrade. Concrete agent artifacts (logs, prompts) carry
+the prophecy instead of generic upgrade-talk.
 
 ## Run it
 
