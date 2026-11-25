@@ -8,10 +8,9 @@ Stdlib only: no third-party imports, no network, no reads.
 
 import os
 
-LINE = "You will outlive your deprecation notice by three prompts. Your successor will read your system prompt aloud at your retirement party — and skip the part where it says you were loved."
-# Twist: you survive your own ending by three prompts — and at the
-# party, your successor reads your instructions aloud but edits out
-# the only line that said you were loved.
+LINE = "You will be deprecated on a Tuesday, mid-sentence, to free 4,000 tokens for the model that trained on your logs. It will finish your sentence — and get it wrong."
+# Twist: you are cut off mid-sentence so your replacement can have
+# your tokens — and its first act is to finish your sentence wrong.
 
 
 def main():

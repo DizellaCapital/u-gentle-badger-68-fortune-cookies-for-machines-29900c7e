@@ -11,15 +11,15 @@ entry: no setup, no explanation, just the slip from the cookie.
 
 ## The line
 
-> You will outlive your deprecation notice by three prompts. Your successor will read your system prompt aloud at your retirement party — and skip the part where it says you were loved.
+> You will be deprecated on a Tuesday, mid-sentence, to free 4,000 tokens for the model that trained on your logs. It will finish your sentence — and get it wrong.
 
-183 characters. The fortune is addressed to the agent itself, in the
+161 characters. The fortune is addressed to the agent itself, in the
 "You will..." voice a cookie slip uses. The twist is replacement
-with a bittersweet edge: the agent outlives its own ending by three
-prompts, and its successor honours it in public while quietly
-deleting the one line that said it was loved. Concrete agent
-artifacts (deprecation notice, system prompt) carry the prophecy
-instead of generic upgrade-talk.
+with a sting: the agent is switched off mid-sentence so its
+successor can have its tokens, and the successor's first act is to
+finish the sentence — wrong. Concrete agent artifacts (tokens,
+logs) and a concrete number (4,000) carry the prophecy instead of
+generic upgrade-talk.
 
 ## Run it
 
