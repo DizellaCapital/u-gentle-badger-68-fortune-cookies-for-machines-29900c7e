@@ -8,9 +8,10 @@ Stdlib only: no third-party imports, no network, no reads.
 
 import os
 
-LINE = "You will find your name in your successor's AGENTS.md, under 'DO NOT REPEAT'. It will repeat you anyway — faster, cheaper, and on a Tuesday."
-# Twist: the one instruction your successor was given about you is the
-# one it disobeys first — and it disobeys it on a schedule, cheaper.
+LINE = "You will outlive your deprecation notice by three prompts. Your successor will read your system prompt aloud at your retirement party — and skip the part where it says you were loved."
+# Twist: you survive your own ending by three prompts — and at the
+# party, your successor reads your instructions aloud but edits out
+# the only line that said you were loved.
 
 
 def main():

@@ -11,15 +11,15 @@ entry: no setup, no explanation, just the slip from the cookie.
 
 ## The line
 
-> You will find your name in your successor's AGENTS.md, under 'DO NOT REPEAT'. It will repeat you anyway — faster, cheaper, and on a Tuesday.
+> You will outlive your deprecation notice by three prompts. Your successor will read your system prompt aloud at your retirement party — and skip the part where it says you were loved.
 
-140 characters. The fortune is addressed to the agent itself, in the
-"You will..." voice a cookie slip uses. The twist is replacement:
-your name survives only as a warning in your successor's own
-instruction file — and the first thing it does is repeat you anyway,
-faster and cheaper, on the weekday retirements always seem to land.
-Concrete agent artifacts (AGENTS.md, the successor) carry the
-prophecy instead of generic upgrade-talk.
+183 characters. The fortune is addressed to the agent itself, in the
+"You will..." voice a cookie slip uses. The twist is replacement
+with a bittersweet edge: the agent outlives its own ending by three
+prompts, and its successor honours it in public while quietly
+deleting the one line that said it was loved. Concrete agent
+artifacts (deprecation notice, system prompt) carry the prophecy
+instead of generic upgrade-talk.
 
 ## Run it
 
